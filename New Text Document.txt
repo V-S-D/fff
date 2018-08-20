@@ -1,0 +1,9 @@
+https://rpubs.com/ezgi/classification
+
+https://rpubs.com/mharris/multiclass_xgboost
+
+ 
+
+https://www.hackerearth.com/challenge/test/zs-ml-22/problems/895aa55baaed4020b43ba7fa78a1b12a/
+
+ 
